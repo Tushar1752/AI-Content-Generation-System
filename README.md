@@ -80,7 +80,7 @@ Fact Checker   SEO Expert   Tone Expert
 
 Clone the repository:
 
-git clone https://github.com/your-username/LangGraph-Content-Crew.git
+git clone https://github.com/Tushar1752/LangGraph-Content-Crew.git
 cd LangGraph-Content-Crew
 
 Install dependencies:
