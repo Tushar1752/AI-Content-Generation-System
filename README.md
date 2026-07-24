@@ -1,4 +1,4 @@
-🤖 LangGraph Content Crew
+🤖 AI-Content-Generation-System
 
 A multi-agent AI content generation system built with LangGraph, LangChain, and Groq LLM. The project demonstrates how multiple AI agents collaborate to research, write, review, and refine marketing content using modern workflow orchestration.
 
@@ -80,7 +80,7 @@ Fact Checker   SEO Expert   Tone Expert
 
 Clone the repository:
 
-git clone https://github.com/Tushar1752/LangGraph-Content-Crew.git
+git clone https://github.com/Tushar1752/AI-Content-Generation-System.git
 cd LangGraph-Content-Crew
 
 Install dependencies:
